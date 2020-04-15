@@ -8,7 +8,6 @@ layout: default
         {% assign docs_by_category = site.tosee | group_by: "category" %}
         {% for ident in site.data.list.category_order %}
         {% assign category = docs_by_category | where: "name", ident | first %}
-        <h1>hello</h1>
         <p class="category">{{ category.name }}</p>
         <ul>
         {% assign items = category.items | sort: "order"  %}
