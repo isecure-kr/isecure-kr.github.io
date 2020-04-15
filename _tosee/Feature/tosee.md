@@ -10,9 +10,13 @@ Personal version | Enterprise Version | Latest Version
 -------| ------- | -------
 [![PersonalLICENSE](https://img.shields.io/badge/Personal_Version_license-freeware-lightgrey.svg)](https://www.isecurekr.com) | [![EnterPriseLICENSE](https://img.shields.io/badge/Enterprise_Version_license-Limited_time_license-blue.svg)](http://tosee.isecurekr.com/) | [![ToSee](https://img.shields.io/badge/ToSee-v2.0.0-orange)](http://tosee.isecurekr.com/)  
 
-
+<h2 role="presentation">Microsoft Windows의 취약점을 관리하고 랜섬웨어로부터 데이터를 보호하세요.</h2>
+<p>ToSee는 취약점 진단 툴을 이용하여 운영체제의 보안 점검과 조치를 간편하게 해주고, 
+랜섬웨어의 위협을 차단하며, 지정된 폴더를 보호합니다. 또한, 문서파일을 자동으로
+백업하여, 중요한 데이터를 안전하게 지켜주는 기능을 제공합니다.<br>
+<br>이제부터 <b>ToSee</b>를 이용해서 개인 PC의 보안 수준을 편리하고 안전하게 향상시켜보세요.</p>
 &nbsp;
-기술 블로그에서는 Personal 버젼만 다운로드가 가능합니다. 그외에 엔터프라이즈와 관련된 사항은 담당자에게 문의해주세요.
+<!-- 기술 블로그에서는 Personal 버젼만 다운로드가 가능합니다. 그외에 엔터프라이즈와 관련된 사항은 담당자에게 문의해주세요. -->
 
 &nbsp;
 ### 개인 PC 보안 수준 향상
