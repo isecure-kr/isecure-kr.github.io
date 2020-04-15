@@ -3,7 +3,7 @@ layout: topick
 title: Alpha Release
 category: Feature
 order: 1
-permalink: /tocrack/
+permalink: /topick/
 ---
 
 ## ToPick
