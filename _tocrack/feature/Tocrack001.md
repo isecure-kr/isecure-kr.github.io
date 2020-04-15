@@ -3,7 +3,7 @@ layout: tocrack
 title: 악성코드 대응훈련
 category: Feature
 order: 1
-# permalink: /tocrack/
+permalink: /tocrack/
 ---
 
 <h2 role="presentation">2019년 경제적 피해를 가장 크게 준 사이버 공격은 기업 이메일 침해(BEC) 공격이라고 FBI가 발표했습니다.</h2>
