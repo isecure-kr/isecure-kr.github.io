@@ -18,7 +18,7 @@ Personal version | Enterprise Version | Latest Version
 <!-- 기술 블로그에서는 Personal 버젼만 다운로드가 가능합니다. 그외에 엔터프라이즈와 관련된 사항은 담당자에게 문의해주세요. -->
 <hr>
 &nbsp;
-### 개인 PC 보안 수준 향상
+## 1. 개인 PC 보안 수준 향상
 &nbsp;
 
 |  개인 PC 보안 수준 향상  |
@@ -27,7 +27,7 @@ Personal version | Enterprise Version | Latest Version
 | <img src="../../img/pic01.png" width="400px" height="204px" title="취약점 진단과 데이터보호기능을 통한 시스템 보안" alt="pic01" />  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; <img src="../../img/pic02.png"  width="400px" height="242px" title="네트워크모니터링을 통한 외부 유출 감지" alt="pic02"> |
 
 &nbsp;
-### 주요 기능들
+## 2. 주요 기능들
 &nbsp;
 
 |||||
