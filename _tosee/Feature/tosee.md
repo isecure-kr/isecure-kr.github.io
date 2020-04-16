@@ -16,7 +16,8 @@ Personal version | Enterprise Version | Latest Version
 백업하여, 중요한 데이터를 안전하게 지켜주는 기능을 제공합니다.<br>
 <br>이제부터 <b>ToSee</b>를 이용해서 개인 PC의 보안 수준을 편리하고 안전하게 향상시켜보세요.</p>
 <!-- 기술 블로그에서는 Personal 버젼만 다운로드가 가능합니다. 그외에 엔터프라이즈와 관련된 사항은 담당자에게 문의해주세요. -->
-
+<hr>
+&nbsp;
 ### 개인 PC 보안 수준 향상
 &nbsp;
 
